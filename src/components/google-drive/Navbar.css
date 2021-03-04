@@ -1,0 +1,12 @@
+.navbar__brand {
+    letter-spacing: 4px;
+    font-size: 30px !important;
+}
+
+.navbar__link {
+    font-size: 20px;
+}
+
+.navbar__link:hover {
+    text-decoration: underline !important;
+}

@@ -1,0 +1,10 @@
+.folder__label {
+    color: #4e97af !important;
+    border-color: #4e97af !important;
+    transition: 0.4s !important;
+}
+
+.folder__label:hover {
+    background-color: #4e97af !important;
+    color: #fff !important;
+}
