@@ -1,6 +1,6 @@
 <h1 align='center'>Backspace</h1>
 
-<p align='center'><img src='https://image.freepik.com/free-vector/video-upload-concept-illustration_114360-4702.jpg' height=400 /></p>
+<p align='center'><img src='https://cdn.pixabay.com/photo/2016/04/25/07/15/man-1351317_960_720.png' height=400 /></p>
 
 <p>Backspace is a cloud drive which lets the users' upload files and folders. Whenever a new user comes, he/she will first signup and then log into the dashboard. In the dashboard, he/she will also have an option to update the profile. There are two options at the top - Add folders and Add Files. A user can choose whatever option he/she like. Working is explained in the screenshot.</p>
 
