@@ -18,7 +18,4 @@
 3. On the top right corner, by clicking on the registered email id, user have an option to update profile.
 4. If the user forgots his/her password, he/she can click on <strong>Forgot Password</strong>. An email will be sent to his/her registered account to change the password.
 
-### Screenshot
-<img src="backspace.gif" />
-
 **Hope you like it !!**
